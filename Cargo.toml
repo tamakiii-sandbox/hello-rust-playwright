@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 playwright = "0.0.20"
+tokio = "1.29.1"
